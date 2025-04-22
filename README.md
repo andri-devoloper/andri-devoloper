@@ -44,8 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-## [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4ndr125&theme=dark&background=000000)](https://git.io/streak-stats)
-![](https://nirzak-streak-stats.vercel.app/?user=andri-devoloper&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andri-devoloper&theme=dark&hide_border=false&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andri-devoloper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
