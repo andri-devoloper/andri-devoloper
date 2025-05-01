@@ -57,3 +57,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=andri-devoloper&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn"/>
