@@ -42,9 +42,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
-### ☕ Support Me on Ko-fi
+### ☕ Support Me
 
+[![OpenCollective](https://opencollective.com/andri2/tiers/backer/badge.svg?label=backer&color=brightgreen)](https://opencollective.com/andri2)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dricode)
+
 
 
 ---
