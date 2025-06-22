@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### ☕ Support Me
 
-[![OpenCollective](https://opencollective.com/andri2/tiers/backer/badge.svg?label=backer&color=brightgreen)](https://opencollective.com/andri2)
+[![OpenCollective](https://next-images.opencollective.com/_next/image?url=%2Fstatic%2Fimages%2Foc-logo-watercolor-256.png&w=64&q=75)](https://opencollective.com/andri2)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dricode)
 
 
